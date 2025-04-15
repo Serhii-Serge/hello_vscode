@@ -1,0 +1,16 @@
+header {
+  background-color: black;
+}
+
+h2 {
+  color: rgba(0, 255, 106, 0.625);
+}
+
+body {
+  font-size: 10px;
+}
+body div {
+  font-size: 10px;
+}
+
+
